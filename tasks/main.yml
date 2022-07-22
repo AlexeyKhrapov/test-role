@@ -1,0 +1,4 @@
+---
+# tasks file for test_role
+- name: Yo-ho-ho
+  shell: echo Hi!
